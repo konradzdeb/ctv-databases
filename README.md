@@ -1,11 +1,12 @@
 ## CRAN Task View: Databases with R
+  
+ 
+| **Maintainer:** | Yuan Tang                                   |
+| --------------- | :-------------------------------------------|  
+| **Contact:**    | terrytangyuan at gmail.com                  |  
+| **Version:**    | 2019-02-04                                  |   
+| **URL:**        | <https://CRAN.R-project.org/view=Databases> |
 
-|                 |                                               
-| --------------- | -------------------------------------------   
-| **Maintainer:** | Yuan Tang                                     
-| **Contact:**    | terrytangyuan at gmail.com                    
-| **Version:**    | 2019-02-04                                    
-| **URL:**        | <https://CRAN.R-project.org/view=Databases>   
 
 <div>
 
